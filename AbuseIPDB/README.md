@@ -1,10 +1,11 @@
 # AbuseIPDB Integration for Wazuh
 
-Custom integration script that will identify a non-private IP address and check AbuseIPDB fo
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Custom integration script that will identify a non-private IP address and check it against AbuseIPDB. 
+
+AbuseIPDB
+https://www.abuseipdb.com/
 
 ### Dependencies
 
